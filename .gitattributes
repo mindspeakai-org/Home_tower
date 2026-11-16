@@ -1,0 +1,13 @@
+* text=auto eol=lf
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.mp4 binary
+*.pt binary
+*.onnx binary
+*.zip binary
+# Preserve recorded evidence/checksums, including original CSV line endings.
+reports/** -text
+reports/furniture_audit/*.csv whitespace=cr-at-eol
+reports/stage1_validation/*.csv whitespace=cr-at-eol
+reports/furniture_audit/original_metadata/*.txt whitespace=-blank-at-eof

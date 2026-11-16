@@ -1,0 +1,239 @@
+{
+  "status": "real_images_real_CPU_predictions_not_manual_approval",
+  "images": [
+    {
+      "image": "test/images/Malson-Modern-Bed-Room-20180819090641741_jpg.rf.c13f586c6a8754f05d8592adb0cd62f0.jpg",
+      "latency_ms": 81.84188299492234,
+      "proposed_types": [
+        "bed",
+        "chair",
+        "couch"
+      ],
+      "zone_count": 3,
+      "overlaps": [
+        {
+          "zones": [
+            "bed_0",
+            "couch_0"
+          ],
+          "intersection_area_px": 12584.19542725815
+        }
+      ],
+      "status": "unreviewed_model_proposals",
+      "saved_as_runtime_calibration": false
+    },
+    {
+      "image": "test/images/1dffdf_3395c0921fd045d09edfa3292f58eb04-mv2_jpg.rf.149e8877f0befcb712701ec9a458b5ea.jpg",
+      "latency_ms": 44.07602900027996,
+      "proposed_types": [
+        "bed"
+      ],
+      "zone_count": 1,
+      "overlaps": [],
+      "status": "unreviewed_model_proposals",
+      "saved_as_runtime_calibration": false
+    },
+    {
+      "image": "test/images/Floor_50x50_Selva_jpg.rf.ba870bb3b3d4061561fa465c83c90a2d.jpg",
+      "latency_ms": 74.68300299660768,
+      "proposed_types": [
+        "couch"
+      ],
+      "zone_count": 1,
+      "overlaps": [],
+      "status": "unreviewed_model_proposals",
+      "saved_as_runtime_calibration": false
+    },
+    {
+      "image": "test/images/-_jpg.rf.4bc6fd070a51e885d39973d7fea2c716.jpg",
+      "latency_ms": 56.408383999951184,
+      "proposed_types": [
+        "couch"
+      ],
+      "zone_count": 1,
+      "overlaps": [],
+      "status": "unreviewed_model_proposals",
+      "saved_as_runtime_calibration": false
+    },
+    {
+      "image": "test/images/Chairs-4-_jpg.rf.cc6e8badf603fafef0ed894dcb72cbc1.jpg",
+      "latency_ms": 60.428185999626294,
+      "proposed_types": [
+        "chair"
+      ],
+      "zone_count": 1,
+      "overlaps": [],
+      "status": "unreviewed_model_proposals",
+      "saved_as_runtime_calibration": false
+    },
+    {
+      "image": "test/images/12_jpg.rf.a350237b0ec692711f001345cb38378e.jpg",
+      "latency_ms": 43.73339199810289,
+      "proposed_types": [
+        "chair",
+        "dining_table"
+      ],
+      "zone_count": 7,
+      "overlaps": [
+        {
+          "zones": [
+            "chair_0",
+            "chair_4"
+          ],
+          "intersection_area_px": 1316.5376905360026
+        },
+        {
+          "zones": [
+            "chair_0",
+            "dining_table_0"
+          ],
+          "intersection_area_px": 19425.705789535423
+        },
+        {
+          "zones": [
+            "chair_1",
+            "chair_2"
+          ],
+          "intersection_area_px": 2684.01081717998
+        },
+        {
+          "zones": [
+            "chair_1",
+            "chair_3"
+          ],
+          "intersection_area_px": 561.3732404272014
+        },
+        {
+          "zones": [
+            "chair_1",
+            "dining_table_0"
+          ],
+          "intersection_area_px": 14778.414137656793
+        },
+        {
+          "zones": [
+            "chair_2",
+            "dining_table_0"
+          ],
+          "intersection_area_px": 29742.492224857968
+        },
+        {
+          "zones": [
+            "chair_3",
+            "dining_table_0"
+          ],
+          "intersection_area_px": 648.910154686746
+        },
+        {
+          "zones": [
+            "chair_4",
+            "dining_table_0"
+          ],
+          "intersection_area_px": 1621.902900047251
+        },
+        {
+          "zones": [
+            "chair_5",
+            "dining_table_0"
+          ],
+          "intersection_area_px": 831.2799944202416
+        }
+      ],
+      "status": "unreviewed_model_proposals",
+      "saved_as_runtime_calibration": false
+    },
+    {
+      "image": "test/images/Table-40-_jpg.rf.259f6734fa10afefa8c1ab2cb0dec2d0.jpg",
+      "latency_ms": 43.36087300180225,
+      "proposed_types": [
+        "dining_table"
+      ],
+      "zone_count": 1,
+      "overlaps": [],
+      "status": "unreviewed_model_proposals",
+      "saved_as_runtime_calibration": false
+    },
+    {
+      "image": "test/images/erinwilliamson-21-97917683e34f4af2aa641dbd8ac0d9ff_jpeg.rf.0803ed76f172c8df5d9161bb53105871.jpg",
+      "latency_ms": 46.79394500271883,
+      "proposed_types": [
+        "dining_table",
+        "oven"
+      ],
+      "zone_count": 2,
+      "overlaps": [],
+      "status": "unreviewed_model_proposals",
+      "saved_as_runtime_calibration": false
+    },
+    {
+      "image": "test/images/ikea-all-you-need-to-add-is-an-apple-pie-cooling-on-the-windowsill__1364308435274-s4_jpg.rf.6d32d3ffb52bb0b22b99a79679d478de.jpg",
+      "latency_ms": 45.1695129959262,
+      "proposed_types": [
+        "chair",
+        "dining_table",
+        "oven"
+      ],
+      "zone_count": 3,
+      "overlaps": [
+        {
+          "zones": [
+            "chair_0",
+            "dining_table_0"
+          ],
+          "intersection_area_px": 6604.53996836138
+        }
+      ],
+      "status": "unreviewed_model_proposals",
+      "saved_as_runtime_calibration": false
+    },
+    {
+      "image": "test/images/naver_0069_jpg.rf.3aa7b3b4ae56745d44ea625ec11f238a.jpg",
+      "latency_ms": 44.46536300383741,
+      "proposed_types": [
+        "chair"
+      ],
+      "zone_count": 1,
+      "overlaps": [],
+      "status": "unreviewed_model_proposals",
+      "saved_as_runtime_calibration": false
+    },
+    {
+      "image": "test/images/ikea-small-size-without-compromise__1364312041670-s4_jpg.rf.2b0f644d3621e25117f672c20cf9b1f9.jpg",
+      "latency_ms": 45.71575700538233,
+      "proposed_types": [
+        "bed"
+      ],
+      "zone_count": 1,
+      "overlaps": [],
+      "status": "unreviewed_model_proposals",
+      "saved_as_runtime_calibration": false
+    },
+    {
+      "image": "test/images/ikea-wake-up-to-clean-and-airy-__1364308509739-s4_jpg.rf.124bba0e57ce01b48eb9d3330fdb0d03.jpg",
+      "latency_ms": 44.65619099937612,
+      "proposed_types": [
+        "bed"
+      ],
+      "zone_count": 1,
+      "overlaps": [],
+      "status": "unreviewed_model_proposals",
+      "saved_as_runtime_calibration": false
+    }
+  ],
+  "device": "cpu",
+  "backend": "existing OpenVINO/ONNX CPU loader",
+  "imgsz": 480,
+  "cpu": "13th Gen Intel(R) Core(TM) i5-1335U",
+  "model_load_and_warmup_seconds": 3.1533640880006715,
+  "mean_proposal_latency_ms": 52.61104324987779,
+  "p95_proposal_latency_ms": 77.90449899584928,
+  "rss_before_bytes": 278999040,
+  "rss_after_warmup_bytes": 523726848,
+  "sampled_peak_rss_bytes": 553398272,
+  "process_high_water_rss_bytes": 558030848,
+  "unsupported": [
+    "desk",
+    "stove"
+  ],
+  "precision_recall_claim": null
+}

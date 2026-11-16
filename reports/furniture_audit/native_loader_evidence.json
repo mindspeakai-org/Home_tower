@@ -1,0 +1,11 @@
+{
+  "native_mixed_format_probe": [
+    {
+      "original_label": "test/labels/111145_jpg.rf.332efa7b64ee443c1ae266e4b0b52f56.txt",
+      "corrupt_flag": 1,
+      "message": "audit: reports/furniture_audit/tmp6lad05rk/111145_jpg.rf.332efa7b64ee443c1ae266e4b0b52f56.jpg: ignoring corrupt image/label: labels mix segment and detection rows",
+      "loaded_image": null
+    }
+  ],
+  "duplicate_annotation_boxes": []
+}

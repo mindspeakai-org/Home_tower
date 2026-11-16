@@ -1,0 +1,9282 @@
+[
+  {
+    "image": "test/images/-1-_jpg.rf.7e189da61dc4a23fcb18ff846eb11e92.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/-1-_jpg.rf.8fa48d61117eb985d8be50da70ee0911.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/-1-_jpg.rf.a91d21168312e7c1601742d9ff7b3b86.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/-_jpg.rf.4bc6fd070a51e885d39973d7fea2c716.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000128_jpg.rf.9cdde4821b45805b9835227dbdc8ad98.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000142_jpg.rf.f9ffc9296502b04fabf9b23d9710478e.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000152_jpg.rf.9dc23340e0909e5875f2a2dd970c1663.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000155_jpg.rf.a75fe1e182614d97ff64d45479dc436d.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000155_jpg.rf.c54af68a9ad2da328226af887fa3265b.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000158_jpg.rf.ea598f4cd5eef79a8220330b13d579d8.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000162_jpg.rf.9c32e694ac5a31c3eeb7c4dfacda4c61.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000163_jpg.rf.daee507b81e2daddbd5eda4fadcae139.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000166_jpg.rf.15a29b6f6acedb93c79d30cbe1478c0f.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000167_jpg.rf.05bd21753d44c49c366ba79e6bcb1ac1.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000167_jpg.rf.acca6e9fbad65450145a4eace6f50291.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000168_jpg.rf.b9214ae74051d9cd8c30df0f62b28430.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000178_jpg.rf.328c7e4ec74a6a7bc925aaa0b6cffc0e.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000178_jpg.rf.8b21a2a8e56d022c4c20a461f9516641.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000179_jpg.rf.df6ec9c39f3708c1b37519ec21f20b84.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000182_jpg.rf.b632107d9d84fdaea73f7091bb7aa89f.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000183_jpg.rf.621f75f8f6dc2d53bbde8af829a9e064.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000183_jpg.rf.bc1624139314bbc5c213f2cd69eea4c2.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000189_jpg.rf.14f64ea908116b3180398b2dae05a22a.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000189_jpg.rf.5a2f27d1306c9904ffa9bb614f9bf164.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000189_jpg.rf.6c5e2d08b50d06ecaa47fc02c4a7348d.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000190_jpg.rf.d4c2df4d59f7b9a887c9813975f9a3c9.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000203_jpg.rf.ee6a7f2a20523ae26c6a3b3c738b2a0e.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000206_jpg.rf.659697621e0b425fe75eaf9d807a5d4e.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000206_jpg.rf.d8670fcbcaa0e2d24f1cc4f47718cdbe.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000206_jpg.rf.e62edec19979333407c58f04a258b83b.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000210_jpg.rf.35239c387e68b6d37a043ad4e360b575.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000217_jpg.rf.aad6ef046b95ccdb87cb2be277c6efee.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000222_jpg.rf.6ee84f76e703c117637c9b9f96d9793d.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000223_jpg.rf.1cd5d6c1c7647c0a252d914d06095e6a.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000233_jpg.rf.a454a7b137c1189950bbf85dd6674ff8.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000251_jpg.rf.2ccf6013ec1c8c19bc181729eac9cb9f.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/00000266_jpg.rf.4c217422d18ee5d6dcf6e47d96607804.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000266_jpg.rf.a4a458710dbae0651b17150aa6a21bbf.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000291_jpg.rf.93b537fa877b23614caa19fe8068a66d.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/00000318_jpg.rf.6f85910de006041ac24280b5b238af1d.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/000169_jpg.rf.69be0ace08929af4ad7e1ef79cce6742.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/000360_jpg.rf.d7f944b1abdf19d780e24d6a0270eb10.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/000420_jpg.rf.25af85d01407398d5a28790225ef9074.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/000491_jpg.rf.8c54497e796e7a00f5358a7f96db7c8e.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/000559_jpg.rf.5546a6397172c3225f38b2145e4390a9.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/001-024-52_jpg.rf.02ce40a972cd1c832ce806747ab07a1e.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/0029294_3200394929-PIERO-YEMEK-MASA-SBT-CURA-AHS-1020X180_jpg.rf.8960e3e4c6a979f636e31f2f828b48e7.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/0276b6fb8948381c10ab61dea1210486_jpg.rf.c85a714663ede1e5afa56f99cbcb527c.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/05c00095d0a149b623b556e079eaa6d7_jpg.rf.890f111808973c37de8dbb79e0d86c62.jpg",
+    "classes": {
+      "11": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      }
+    }
+  },
+  {
+    "image": "test/images/090-257-94_jpg.rf.199c139deba181db3894c9f7c83f50ac.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/091-195-18_jpg.rf.1cde8f37fa9c2b020a7f2dfbfa83930c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/091-283-58_jpg.rf.18edcbd3de0344e86d89fc6fbbb896d9.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/0db30c2972306c0955aec1d8ae03d45a_jpg.rf.cfe71a683ef202421a422bc1df845d8e.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/100004_jpg.rf.fea27c34e5fb94d806d5c8e4769762dd.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/100050_jpg.rf.bea4213b2849ddea796607bede8255ce.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/100179_jpg.rf.3248d4e212443c031f34f2f994d19884.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/102-335-32_jpg.rf.92c782e875f98db6696d93d88b97d887.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/103-203-41_jpg.rf.d9a3ec45659bb15591fb451b71584955.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/103_jpg.rf.a5a51def776b2885a61be1b0deb37827.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/104_jpg.rf.93aa2a57e3348a337410fb4b785e8a32.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/10678909632562_jpg.rf.d54b232b0057da214d466eb104b23388.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/107_jpg.rf.4f6429e6326b128243a5a87998d240ad.jpg",
+    "classes": {
+      "23": {
+        "gt": 5,
+        "tp": 0,
+        "fp": 0,
+        "fn": 5
+      }
+    }
+  },
+  {
+    "image": "test/images/109_jpg.rf.29d1cba841ac689ef484e88b4253949b.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/109_jpg.rf.ac4e3db0287e171a2a1d1aecf20a4d61.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/110905_jpg.rf.b9f8a894bc8f9fc3a72f0945c729787b.jpg",
+    "classes": {
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/110943_jpg.rf.9b95a30fecb69f02c5927fbf969d7271.jpg",
+    "classes": {
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/110965_jpg.rf.5c1f09c0dc580ec6326bdf2a02ba5477.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/110_jpg.rf.0de82fe20bdc3949118a18599dc66faa.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/110_jpg.rf.1f70545ed851f5e94488b3c636e61281.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111006_jpg.rf.4fb8b8fee58894a5a3097c1e6b4076f6.jpg",
+    "classes": {
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111025_jpg.rf.b9a42f41d19fabf7a8f53c312becda81.jpg",
+    "classes": {
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111045_jpg.rf.cb61e60209813a25bb508fe1fb8080d6.jpg",
+    "classes": {
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111145_jpg.rf.332efa7b64ee443c1ae266e4b0b52f56.jpg",
+    "classes": {
+      "2": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111205_jpg.rf.f578799a04223a166b390743c9f908ec.jpg",
+    "classes": {
+      "2": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111223_jpg.rf.af70be092347d81de4252566897690ca.jpg",
+    "classes": {
+      "2": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      },
+      "7": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      },
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111225_jpg.rf.e3135390c34fb9cabfc8af4d6277f119.jpg",
+    "classes": {
+      "2": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111343_jpg.rf.7d4ee049779bb8be7c093b1bd286c99a.jpg",
+    "classes": {
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111346_jpg.rf.f66e620cf246122aa3d8afbd58438092.jpg",
+    "classes": {
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111485_jpg.rf.02f64cf4cebf9e2fcf96c7629bf1ac77.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111806_jpg.rf.5cfef94d6df9c8c05a75c9cfbf6c850f.jpg",
+    "classes": {
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111949_jpg.rf.f4fa368135c0976d3507d399b91099c9.jpg",
+    "classes": {
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111962_jpg.rf.cb99a1fa4c137b610768d57d015aa5e5.jpg",
+    "classes": {
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/111_jpg.rf.5de1a7d1460039c9b11699e7c15428ae.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/112102_jpg.rf.e51fceb8972fb54538870fe8281167ad.jpg",
+    "classes": {
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/112186_jpg.rf.a83ce814592134da3f7cd28cac26e3e6.jpg",
+    "classes": {
+      "2": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "19": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/119_jpg.rf.62614b15e216818c382e3a6c204c2b8b.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/11_jpg.rf.4b4c3de53d6bdea3d40a5b16d96d1636.jpg",
+    "classes": {
+      "15": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1212_jpg.rf.d03832414a6819b2c5ac670421c6eb4e.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1219_jpg.rf.3012e2a858fd34573e1dffb24c00782a.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/121_jpg.rf.d88102d257e254f37b8a62196499dd64.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/1221_jpg.rf.3e86547cd65aa7b44374bf6c1a9760cf.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1224_jpg.rf.733718484aea1c42fd905ce76255ac2a.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1226_jpg.rf.13c340afd7c5ea59fe120f4e49c463f6.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/122_jpg.rf.1cddebe0c80ba7295aa6321d02da6429.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1235_jpg.rf.18ac1a82b2a625de67e7b6311276a05c.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/123_jpg.rf.19cdd493bcd37852247d20dbe95b6812.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1246_jpg.rf.5faeb2f7a014ea098861bec289cb7ddd.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/124_jpg.rf.57dcc948c8cdc269d79887a0601fa6b6.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/1250_jpg.rf.cc435d9b7f8f4236d0a1cd63bb0c6887.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1266_jpg.rf.efc6a1c873967a14b96bb7595c23ed0e.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1271_jpg.rf.86b8e544c3d211e74cacc8a8059840fa.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/127_jpg.rf.ffc9ece311c13f0f667c7c46174f12e6.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1285_jpg.rf.7e07b60d25203f5595ad1ed3588ea272.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1289_jpg.rf.cd9c032f123f43ab8b7e52748da23a5a.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1290_jpg.rf.4c4063f9f327d2a302f5372030586645.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/12_jpg.rf.a350237b0ec692711f001345cb38378e.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 6,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/12_jpg.rf.e15cf7e09618407ba2901d6800bc69f5.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 3,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1309_jpg.rf.a3da7ac07bfc6a8ee657aacdf9709cd9.jpg",
+    "classes": {
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/133_JPG.rf.7a5d446e1853c6daefda04a6c363ffb9.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/137_jpg.rf.dddae399808dc961d34a8a05ffd264ae.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/137_jpg.rf.df9af939899a3c0b4db51fc6a770c3ef.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1387_jpg.rf.8006ee1d6483419cc8ec26b1430ac3ab.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "15": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/13_jpg.rf.efe97a5bf237f198eac3b161113ce916.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/140_jpg.rf.b6f3403cd5d45d6cc17d47f64d0b925b.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/144_jpg.rf.0117601a7bc600c06797c8ac76462d3c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/144_jpg.rf.67264ea7c53eb0fff468916818743850.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/146303_jpg.rf.ce6afbc623b1cab363a54eab627342e6.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/146905_jpg.rf.a13c4e46c3ce1ca16973946a7594c132.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/147245_jpg.rf.1fc6b1ef21783d8a9e8b6f3953e0b08e.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/147949_jpg.rf.b720b09a0fe6ec4cb596fd94916a6200.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/147_jpg.rf.2d54e1832cef5af97af74c2db22254b3.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/14_jpg.rf.f8d079a982467971897cdade89a6e8b9.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/159_jpg.rf.af0f139637bf6a0805b10e8d1c0076b5.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/15_jpg.rf.2f3011849ab320733750e5de2285dfad.jpg",
+    "classes": {
+      "15": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/15_jpg.rf.b5ce2532ae1a2de353b04eaad6add647.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1679124837_jpg.rf.2596ec7810cecde60b50e5c17a7f9da7.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "21": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1679124838_jpg.rf.c973cb89f80d88eaa8ea031fa487ca56.jpg",
+    "classes": {
+      "21": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1679124857_jpg.rf.7f97361a4f56297e01d62703d39deb47.jpg",
+    "classes": {
+      "21": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1679126148_jpg.rf.b28ed2e11b4fd2d2f65d1867dcf32f7c.jpg",
+    "classes": {
+      "17": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1679126149_jpg.rf.824e249dfd799d538ed9ba34483e471f.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/1679126215_jpg.rf.0e919f73e342efd7f60c30074398f3d7.jpg",
+    "classes": {
+      "17": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1679159920_jpg.rf.dc04e90c9b8c00bc67f96d4d1e892943.jpg",
+    "classes": {
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/1679159942_jpg.rf.6a01f65ed4a10c65d60934ab172b5544.jpg",
+    "classes": {
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1679167957_jpg.rf.38e1ded0350ddebcb76d9f353179c3aa.jpg",
+    "classes": {
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/172_jpg.rf.510926ab5223266802a46ef53d3f2233.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/173_jpg.rf.dbe06302ffaaba9bba184bc2d777cef8.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/17_png_jpg.rf.c4001daffc5c55db52e97c3d305e2ca2.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/18_jpg.rf.0a95e385dd0b1307a7dc29ff492507f4.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/190-117-77_jpg.rf.80976de9ace5383694aa24705eda5606.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/191-297-91_jpg.rf.7bd86b65c3a615fedbaed939a3559833.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/19_jpg.rf.976a3d61c304d29dbf6b7d39545cac1f.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1_org_zoom-1-9_jpg.rf.d4cefbbfbfbd72c31420540e0e466773.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/1dffdf_3395c0921fd045d09edfa3292f58eb04-mv2_jpg.rf.149e8877f0befcb712701ec9a458b5ea.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "17": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/2-seater-particle-board-replica-kids-eiffel-dsw-circular-ormond-original-imag2a7k6pyhcdft_jpeg_jpg.rf.68dcc8947dc1599449d04cb610321858.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/200060_jpg.rf.efa716b712032f4b6d30f561071fe5f7.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/200144_jpg.rf.ffb7ccd5866f65e53fb838a29caeee4c.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/201-150-38_jpg.rf.daf8f1d5b9473dc034f5da1fd205469d.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/201-626-47_jpg.rf.59d6ee183501c376e2e5f5a1dfd4323a.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/202-047-51_jpg.rf.7f63d55e61d6a935b8f23e5768e34ff4.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/202-244-19_jpg.rf.79de8d0f51542d3a742f3dbafbd09074.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/202-396-99_jpg.rf.9b23f59f3533a9a3f55e98e32fefc092.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/202-693-61_jpg.rf.711405398fc4d57e31dbaf25025810a8.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/202-959-25_jpg.rf.489945f7bbc89282ddb970312acfda61.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/20220226_111409_jpg.rf.445fe77f0a7f0c26415c07b72336ce1a.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "17": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/20220226_112851_jpg.rf.c851c199a9c9eb0e457629ff6aa9ed00.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 3,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/203-063-87_jpg.rf.e056167146e2223ca4a867fed20db361.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/204_jpg.rf.4534384f5015d8cb4fb10d9673680f29.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/207_jpg.rf.2d80cae278377db854ea6f4a52a14840.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/211_jpg.rf.45cb8f54aac1d73cfde322850194a5f2.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/215_jpg.rf.e3bc88e7b35409ab8a4b9b29611539d9.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/218_jpg.rf.e2bdc29c54d8cd47f6b8796753f058df.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/235_jpg.rf.3940e8c8006ba8b4be846f4eb1e90ed6.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/238_jpg.rf.99a192af86c81e6f3c171c693a49f3d3.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/23_jpg.rf.5c4b0a7074f2af6bd6bba811d5eaf654.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/242_jpg.rf.16c21b80925121cf235aac389ab67965.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/245_jpg.rf.5398f7537d5e3afbf3247c1443ffe953.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/24_jpg.rf.1509f466af22f3a7ccbf5a90691ad9fc.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/251_jpg.rf.96c554902fc1aac8492023d2623e22c3.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/262_jpg.rf.7fae2ea7b4b0228baa047e71eb605ab6.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "23": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      }
+    }
+  },
+  {
+    "image": "test/images/265_jpg.rf.8d91a9667df59b751b512d6c337db0cd.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "23": {
+        "gt": 3,
+        "tp": 0,
+        "fp": 0,
+        "fn": 3
+      }
+    }
+  },
+  {
+    "image": "test/images/265_jpg.rf.b7864819abebc6c4f2e353c4978b2828.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/27250c0282a90d7b94cdded53ecca2e7_jpg.rf.1790d6724343d6a1a19c9c55204dd69a.jpg",
+    "classes": {
+      "6": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      },
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/279_jpg.rf.0346fba346278a15079300d096baa4f2.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/280_jpg.rf.9c9e2ec2ede6331eb5b175309485d4ce.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/286237f27e9b9dc8e74858468e87b573_jpg.rf.2bbc48ec95ffc4fd4313d2443e931b0c.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "11": {
+        "gt": 4,
+        "tp": 0,
+        "fp": 0,
+        "fn": 4
+      }
+    }
+  },
+  {
+    "image": "test/images/287_jpg.rf.873818afb0363f09d0f7ba4bf652ae48.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 3,
+        "fn": 0
+      },
+      "23": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      }
+    }
+  },
+  {
+    "image": "test/images/289_jpg.rf.919009ec2e3d49083e2d05eb33fcf10a.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/291-026-30_jpg.rf.4d1cb7e790f3b4225df3a2bf399e982c.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/29_jpg.rf.0a3c3dc0d8541c8d55ae241235f29f83.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/300016_jpg.rf.00b7212d8683937314b022489bbb938f.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/300045_jpg.rf.ad5ca30c4056defd7bc59a4e3e215913.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/300055_jpg.rf.63f6a13ab2557162ea5000007bfeff0e.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/300059_jpg.rf.d16cc92f3b926d311b8942ff3eec7ab9.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/300076_jpg.rf.a6c815d36bac21abf0b0236e771e4969.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/300129_jpg.rf.85238a606a2659e84f911507c0580e11.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/300158_jpg.rf.43efd3ede49b06efca45c54d5eacdcdd.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/300158_jpg.rf.dfa740608abaa115b1461cc9765a6a02.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/300182_jpg.rf.b96b9071a16a28f3d596e9b0065a0033.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/301-162-64_jpg.rf.ff35eb6f527fde3a3fd5fc974facb964.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/301_jpg.rf.d5d57d6d615fd677d6ead7fcfb7ea14c.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/302-868-45_jpg.rf.f7c2f47695d7a12f022602b658695e30.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/303-050-52_jpg.rf.34da8577f213d5b443a6527d4bcbade8.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/303-270-68_jpg.rf.4f465b4826324f996c2320dee73935c5.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/32_jpg.rf.3829cfced7257a7e095d929c43b4c8bf.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 7,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 1,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/32_jpg.rf.a8c8f68a1d2be5777f6365f6b8a3c767.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/336_jpg.rf.d9b6db7572c8196f8f57f937c046c654.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/33_JPG.rf.688b4cd243aaf999c3fc9949e721270e.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/344_jpg.rf.4956dc83beb835910554164af2ce657e.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/359_jpg.rf.019e2ec65e005cd757d1b65dc9602290.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/371_jpg.rf.4e3dd2d5fb2d2d04de4e724a7d7d0ff3.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/372b97ee88f27e58197e2e0540c2f06e_jpg.rf.03f2cbedd5151798a71568f52b7d4fe5.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/3825_jpg.rf.105e20efe73d4b823444f604377fb5bd.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/390-416-60_jpg.rf.5654620f46e4c1a78e70a57e195d92de.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/391-278-09_jpg.rf.076fe4e92b4021b0f1e8238e08e5be21.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/392_jpg.rf.b8083859fb062bbe1fabff6f70c25ab6.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/396_jpg.rf.491a79a9cae186b51c427546d68b4c45.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/399-030-41_jpg.rf.eb674e12c5da383f356eb12a58e96dac.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/39_jpg.rf.0e560da9fd29db56dbb07ce2501c5c6c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/3_jpg.rf.790c82d1b3c5c7d80affd162584a9fb8.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/3abe991351274a030e38fe93a665d0fb_jpg.rf.f9500122a5ff6cf12b8cc6c6107063d3.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 3,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/401-366-81_jpg.rf.73322f4073de1e14d9383a6faa8cf96b.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/401-822-44_jpg.rf.6df8b55732263a1c81e7410b19527498.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/402-392-74_jpg.rf.6c620be0967c35049cd1252f73e77197.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/402-426-29_jpg.rf.686daf8621877a7a9c258b8222f57b08.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/402-612-55_jpg.rf.7159eebc6ed67c21859884947e222867.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/402-688-79_jpg.rf.b909b652414ac1edc441524f843462cc.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/404_jpg.rf.e09a7e1fde1bbe8b8292a81cae3f635b.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/408_jpg.rf.d2121f76144691215fcc3598fbe13cd4.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/416_jpg.rf.3c864f1be610e362280b7e447dc5c9b8.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/41_jpg.rf.996d44f01900d3062ac6bdb083850e0c.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/448_jpg.rf.c349938f6640705f17ae6b3eb3711c59.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 2,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/44_jpg.rf.1ffd9ac18cd2e666676219011c813ee1.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/463_jpg.rf.30526467d8e338471173b4357f41afcc.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/4670ab0885b53cc3fc69d6c6dc70767d_jpg.rf.afdba71838b0c4e59cca7e88da6c8ed4.jpg",
+    "classes": {
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/46_jpg.rf.0ea46eff0a4641109ad7ba836c088ce1.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 4,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 2,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/473b05f9-1332-BRN_jpg.rf.de68448af9e079173ca70e96a9d5768e.jpg",
+    "classes": {
+      "2": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/4751693fdfcf349f50ff14a5d598a664_jpg.rf.61ebf2dc87a5f1080e17fd3607d209c8.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "13": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/477_jpg.rf.921bb87edd89da659d76c2d4431ed268.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/479_jpg.rf.a1369dfad742a420c4c4078e7c1fd256.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/47_jpg.rf.63cc053ef708dd376c18614552b7ac8c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/485_jpg.rf.ab7b1b880ff5c27b919e11a5c1a95990.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/487_jpg.rf.731603f6aa83534ecfe3fada4db4b819.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/490-022-72_jpg.rf.e2aa24c5ba9a0e7bcbe558d480577c0b.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/490-473-41_jpg.rf.2d5fb2742b57a2c8bb8774bb0fdf3c74.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/490_jpg.rf.17319ae841110fe19093676e2c941509.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/495_jpg.rf.e120080ce472c2a8cfc2450537d948aa.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 1,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/498-759-62_jpg.rf.a834f15f67d07c26b5b4413fb1bb5a70.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/4a26746ad811f259fbe7d3e08dc1fe4f_jpg.rf.3d040b7c252584bf7c8cd0309e336842.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/500021_jpg.rf.5e4a42df0e1d05833abdc51160069b03.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/500028_jpg.rf.c777e9cd601674fececa2815ec7dbb86.jpg",
+    "classes": {
+      "16": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/503-006-66_jpg.rf.83b5f5c6988569475d5c38ab32b2e66c.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/50_jpg.rf.02795499fe1b206253831273e63b362b.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 5,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 2,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/50_jpg.rf.ed1e120791fa5b062a75349916a9602b.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/516_jpg.rf.2178cc362f1aa120f60c9c5d13543cf5.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/520_jpg.rf.be3d85db001162a7243dd26d884941e8.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/523_jpg.rf.5a1c5ac5af2806d8c9041815112590ea.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/52_jpg.rf.46cb5f2b1caae4771ca86f18275eef38.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "23": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/536_jpg.rf.990eab78fc7a18030c9eb31e110f9caf.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/549_jpg.rf.daf70ac0d8b46c5430a002d1b12b7651.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/54_jpg.rf.26465bd777ba3fa45ad1e1324f08d929.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/54_jpg.rf.274718c334fe96ea3db9537b921512ad.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 4,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/555_jpg.rf.f4108dd75ff626c672241ed18c23fc5e.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/567_jpg.rf.1ccd707771fd8936fe5451f6a80477ca.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/570_jpg.rf.1e8db4b49dd9b1dd6200b573d9d93a82.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 2,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/576_jpg.rf.a86dabe0a34651a3118c78668498ea8d.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 1,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/577_jpg.rf.bea6dd25889da71dba517e4a59cc3363.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/57_jpg.rf.e8b449560051aaff53f07999102bb107.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/58_jpg.rf.4b5f50bd6d84b563bb1bd1b927b5b1ff.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 3,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/58_jpg.rf.b5570c55305be55e5720ca499251a0d9.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 1,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/591-249-99_jpg.rf.81cca79854fb4d69b2ff50ac855d3dd1.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/591-553-30_jpg.rf.95596c673bc5e2459275b5e0f016ce0b.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/598-501-07_jpg.rf.d18bbb6cc2edf8275be0cc8e37758235.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/5_jpg.rf.fcdf28acb8215bc2fe91ae636d667a74.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/5f57f64fb743f75dccc7a32bb43b3479_jpg.rf.d3f3918b24417a0b18f5fef5dbfd0178.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "11": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      },
+      "15": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/5f85caf9331c88fe6fa6c2dea9c0960f_jpg.rf.c581c3e97924dd554c958957538a114b.jpg",
+    "classes": {
+      "13": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/602-176-76_jpg.rf.536577cefa6357550c21f3420ce649db.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/602-806-77_jpg.rf.f8554a093033f42c565786652aa3dc77.jpg",
+    "classes": {
+      "8": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      }
+    }
+  },
+  {
+    "image": "test/images/603-022-93_jpg.rf.6ea027283e715048b3d906da3cf2fa49.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/603-034-81_jpg.rf.c0bc3c16f81506b0b1b3677ff40d50e3.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/603-210-98_jpg.rf.ac364b4afa66c8c3339e9d15c5d9a294.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/609_jpg.rf.7645f635ea1e0db9e2fecf57d5ecc829.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/60_jpg.rf.61401c03853e2837e0689a5dcd1abf06.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "23": {
+        "gt": 4,
+        "tp": 0,
+        "fp": 0,
+        "fn": 4
+      }
+    }
+  },
+  {
+    "image": "test/images/613_jpg.rf.5dd5df1a1473b8f23772601acc13570e.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/618_jpg.rf.fd547cb0e958e0d50b18d7312ebb050c.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/619_jpg.rf.9e644e40b5591f35c9d5bd6902cabe7f.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/61f7f365c0ac8_jpg.rf.93e6889c7e6c3d93a4bc74fe2f211edd.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 6,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/61p-zzsDn4L-_AC_SL1500__jpg.rf.0dcd16bdc125b18230178ed5b4a8b33c.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/62_jpg.rf.bddd4e8b6f5dbfae89c14c235ff0a5d2.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/633_jpg.rf.b633137901f70ac0887079618b239955.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/635_jpg.rf.23f6dd0605c1e1c99423eb2fb329b1ee.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/648_jpg.rf.a45ffbf260082486959cba84e4f9ef1b.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/667_jpg.rf.095ba0162c618768e5545bbdcf3010ef.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/66_jpg.rf.2a6e720ee425e1774c0994e1a528e6b3.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/67_jpg.rf.5405121d5cc42eb368cac44d11b46902.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/68_jpg.rf.fa31f85ecd9eb76f23d2c34a9c851dd6.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/705_jpg.rf.0041d1c99571d3b010a7c0e3d03b75bf.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/70_jpg.rf.a9cf03b67c9a5f438453072685d5e5c6.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/70_jpg.rf.ef3162ca38e5da7cbbb636661e94fa52.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/710_jpg.rf.326f2daebffe67371416a753a641759d.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/711_jpg.rf.d324346be5024b9ff9c68b0cc4eec3dd.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 2,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/712_jpg.rf.d349ea13c81e5de61d2c7048cccb265e.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 2,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/720_jpg.rf.7648bf226658b452dc584ee0283b8374.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/732_jpg.rf.10741cab5c34e3b9d83e49bd233ae189.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/738_jpg.rf.44cc7ad8bb7ddf214daca6d78d414fa1.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/746d24ff7560846a4c24bec29bf4ee40_jpg.rf.4c246c20136caf20d9b781fe0d950b2d.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/76ee3c06117f99c98d4a0ab8a9853d18_jpg.rf.73d9af7a716fc7d4e437eff83a55ad81.jpg",
+    "classes": {
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/785bd389dee04f922b2d153c6a48b777_jpg.rf.f69151e5da318113d2a87e874d2a769b.jpg",
+    "classes": {
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/78_jpg.rf.adfb145ec67590c1bfda5582526bb1cf.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 5,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "23": {
+        "gt": 3,
+        "tp": 0,
+        "fp": 0,
+        "fn": 3
+      }
+    }
+  },
+  {
+    "image": "test/images/790-209-72_jpg.rf.9a98f2edbfaa1b360e6a901440456fe9.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/790-403-38_jpg.rf.41e6c85069aee51ddb5f6a32740938bf.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/791-116-32_jpg.rf.e45f1741da1fc5296a6bc52fef7f250b.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/799-019-69_jpg.rf.783d1912a0612ecb895d546a9e190ca2.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/79_jpg.rf.91302cab7eac2e53a5d76fcc3824d11f.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/7cd0b210222b0e744b9937eb4d423d55_jpg.rf.c4f9ce483bbb843d9001b1e59612bbc7.jpg",
+    "classes": {
+      "12": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/802-845-18_jpg.rf.e42e1a4c97a0cbe53670eb3270730e91.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/831d0a4c89b76c25b8fd6fdf1cc52238_jpg.rf.7a6d157e6df6102710d20f3d342cb4fa.jpg",
+    "classes": {
+      "11": {
+        "gt": 3,
+        "tp": 0,
+        "fp": 0,
+        "fn": 3
+      }
+    }
+  },
+  {
+    "image": "test/images/8_jpeg.rf.08aa7f40d261649d97e03925571e4a5e.jpg",
+    "classes": {
+      "15": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/8f4025d2e839b6c103a9b762efaf7272_jpg.rf.4a7ae0e2ae195d42b312aa9cf0618043.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/901-011-13_jpg.rf.e60bc0b15a449dd19f74bbb92dd21c47.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/902-590-33_jpg.rf.a7c67baefd9f8d1d5acd9bcd3506eae6.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/902-679-95_jpg.rf.497649344d9bab41033efdaf664e86d1.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/903-267-92_jpg.rf.7f3a68986cbe77b6eae53aace4af92c4.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/91_jpg.rf.1213f3a043e74e422c726faaa59adb09.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/91_jpg.rf.6a723ab6c4102114ebca56343da3767d.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/93113088d31fa61f396b668735d2344c_jpg.rf.087c1731de4a0d3f09f1e40da9844472.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/9349d4cd566b1752e2a4d325c780f1bf_jpg.rf.de3decc1046cd01f7d63b97f915d628f.jpg",
+    "classes": {
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/93_jpg.rf.60e3c15661313400960ba120ef10a6be.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/95_jpg.rf.cf24f8dd068943e702a0bd28e85b6340.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/97_jpg.rf.8b24e7715a6f5d6b0fa08da9d2eaadfb.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/98_jpg.rf.1ecbb5aecdc3ae40d7d5cb10f3fb5159.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/98_jpg.rf.c98f0126aebea5f420833a1fb3f8a0e4.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/9_jpg.rf.43a27e7acad1f31f31405f2cc58362f8.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/9_jpg.rf.ec6c865dfce009328cdf6ebc0a13abe7.jpg",
+    "classes": {
+      "15": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/AZ3C7565Final-06faca04c06a4eddad520e0dba5b5403-414e4524639a4934b5ba08c6e2da6082_jpg.rf.92dda05a50f2ccaa68208c45a2ba0e55.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Chairs-1-_jpg.rf.b34de7122aef000b967867953daa6647.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Chairs-17-_jpg.rf.2bbbe3d1a02b94297e490bb485429b32.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Chairs-4-_jpg.rf.cc6e8badf603fafef0ed894dcb72cbc1.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Chairs1-1-_jpg.rf.356fae86a7b97252b80f551b2de74839.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Chairs1-12-_jpg.rf.8eabb325357cdaa62c2b6c127f3af423.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Chairs1-15-_jpg.rf.a5209d0595b561495ae5128a94239d70.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Chairs1-18-_jpg.rf.91199a2380dc2b88607d14a4f8aef7a2.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Chairs1-21-_jpg.rf.b16c18b3266f250d0aa66b4a14c0a0bd.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Chairs1-6-_jpg.rf.722ee66ed96ce0a4c24a5c13069e6546.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Cleopatra_Floor-Rectified_59-5x59-5_Eldorado-White-scaled_jpg.rf.9b5e167b14b21716021929f11c6d90e1.jpg",
+    "classes": {
+      "3": {
+        "gt": 9,
+        "tp": 0,
+        "fp": 0,
+        "fn": 9
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 5,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 3,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Cleopatra_Floor-Rectified_595x595_Storm-1-44-scaled_jpg.rf.5c6d71cdeb50a9a4cbedfe396a276770.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "3": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      }
+    }
+  },
+  {
+    "image": "test/images/Cleopatra_floor_595x595_Ashley_White-scaled_jpg.rf.388a39c629dcf6931435c95258e1bc05.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Floor_50x50_Selva_jpg.rf.ba870bb3b3d4061561fa465c83c90a2d.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/KakaoTalk_20210906_213852552_24_jpg.rf.8e173da4bb7d5436de0ca500750aa0b1.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/KakaoTalk_20210910_170021500_29_jpg.rf.8b356fcdfe46be85a4b64bf2a233e681.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/KakaoTalk_20210910_170033208_03_jpg.rf.a10dde54ec31d02ab672a7ede9ba7fb6.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Kursi-Makan-Minimalis-2_jpg.rf.6efa7a2ac73c239be86c70229705c02c.jpg",
+    "classes": {
+      "2": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 8,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 1,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Malson-Modern-Bed-Room-20180819090641741_jpg.rf.c13f586c6a8754f05d8592adb0cd62f0.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "2": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "23": {
+        "gt": 3,
+        "tp": 0,
+        "fp": 0,
+        "fn": 3
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Meja-Makan-Minimalis-Modern-4-Kursi-Harga-Murah_jpg.rf.664385588f7e2cf395b2c2d502a6849c.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 5,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 1,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Meja-Makan-Sederhana-Model-Kursi-Minimalis-Jok_jpg.rf.53882622eec49b4fc29e1f2da42459c7.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Screenshot-2023-02-24-at-05-13-18_png.rf.c5d094082e9e1fc34e450a8802477df6.jpg",
+    "classes": {
+      "13": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Screenshot-2023-02-24-at-05-13-53_png.rf.b6e49d74cb366449f32d595ab54d118b.jpg",
+    "classes": {
+      "13": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Screenshot-2023-03-16-at-18-23-18_png.rf.cbe9a7b9c4afb3e60383d71267601f9e.jpg",
+    "classes": {
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Screenshot-2023-03-16-at-18-23-33_png.rf.fc5d4f1dc6601f5168ad8801fceba0e0.jpg",
+    "classes": {
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Screenshot-2023-03-16-at-18-23-36_png.rf.ee088fc3912fb61fb621f7e5af5194fb.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Script-Online-Orient-Coffee-Table-White-56121403SD00018-Context-Visualizer-Image-D-01_png_jpg.rf.d845ad9fe30e18be58e5f83e9ffc18c0.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-358-_jpg.rf.b364d5c8d2078179415febd2f9a4996d.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-359-_jpg.rf.aa91a10c732a063d575a7f307a21572e.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-360-_jpg.rf.7892910ddb89d6fae4504baf9c75ca9c.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-361-_jpg.rf.b024dcd46a7b4a5049ec4d9d6404d663.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-362-_jpg.rf.a912776cb4f959d1cb148f1e712c945b.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-363-_jpg.rf.4945554285205b6285134b35186d589a.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-364-_jpg.rf.6fa1006073e24f93290e38bd718546e2.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-365-_jpg.rf.9c42390f92d3279a52c294b2846569be.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-366-_jpg.rf.6babe2e61bd248fa2053c2e06bcdd3bc.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-367-_jpg.rf.c7ba83421fda71c677cf7394fd67cc71.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-368-_jpg.rf.72d65e851e16fc693cbf5649bacd953c.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-369-_jpg.rf.dd8b1cfde62e8cfe301d44a4ac1d57b9.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-370-_jpg.rf.a2b83ab2cd23522c12d1efce6744d0d0.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-371-_jpg.rf.6d1aa99a12b509656ace79a8318059f4.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-372-_jpg.rf.9283682b2602e01626c23941f2d558c3.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-373-_jpg.rf.470ae434122cca76993af78fb0edc2b3.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-375-_jpg.rf.7a59cbd55d2f16c85038be5b826f8020.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-376-_jpg.rf.41afa1ff523d5b10b5e855025bc459b4.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-377-_jpg.rf.68b08fe5181b5fae17f0fa791ffaee3a.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-378-_jpg.rf.b1f781ebc2734ccda0a2bd2d34adbff5.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-379-_jpg.rf.79863c4264eba9ecbceca62c8aee4b48.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-380-_jpg.rf.b9ccac1858cba176d6457f0f398cdd01.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-381-_jpg.rf.927257408951ec92cfbd03abc167944e.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-382-_jpg.rf.a91998a78fdeed383dd5e64e94a23e83.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-383-_jpg.rf.d82f4ddca25715906e115cc2276e69d4.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofa-384-_jpg.rf.fcb93adfa9dee765f42ec6a9a9735833.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-13-_jpg.rf.cb532ddbc3ca005275da13122a3336e5.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-15-_jpg.rf.eebb929b5644587e496dfe2a9a72637f.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-16-_jpg.rf.0d7ff9b5e24ae47f99177b586168364a.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-17-_jpg.rf.ffc9b6f75fc039cadefc9cbdfd67751b.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-18-_jpg.rf.984fcc033126f0244b8644e77c7fc6bf.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-19-_jpg.rf.05824e13fa6d313df4cf838441c8ac8e.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-20-_jpg.rf.4b88261c209a179c5c8e05ad9e1b8ebc.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-21-_jpg.rf.78a3abedf6f3d75cd98124359107e12f.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-23-_jpg.rf.2c79a123cf4b524a6764edad959267e0.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-24-_jpg.rf.055b4818a9ffcaa0720cf13c6f4e942e.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-26-_jpg.rf.9f168ec144eff5fd93e162b6bd772f54.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-28-_jpg.rf.3d9bf4f969150eab0ce2e117cec5ce8d.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-29-_jpg.rf.21722729a6556e30e48a1a36064b2a65.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-3-_jpg.rf.7bf44ff23cd679dc22eaf7d18a54048c.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-4-_jpg.rf.a616755bec63b44c3861ff61e3880104.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Sofass-8-_jpg.rf.18ac2d229057c0c7735215eee94ed432.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-18-_jpg.rf.979e218e2cda945a4c6ec9a2d89469ce.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-180-_jpg.rf.5f8b8df243ec342fcac7b646ceac41b1.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-181-_jpg.rf.c744bb959f4bbdfdb6976934397ab0b8.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-182-_jpg.rf.c88c3644c7207a15030ce38134303d77.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-184-_jpg.rf.961ad541da573271c50162d40647dd23.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-185-_jpg.rf.3b1ab5422f2f7ef5688b1d62e5563fa7.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-186-_jpg.rf.f84c4bc4f734b14d682ca7f8bbe158ea.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-188-_jpg.rf.3e95767fa407a67d7d8983b925b32273.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-19-_jpg.rf.2817beddf255124205b44c3012d105ad.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-191-_jpg.rf.55ed5c9f6b524847b3c5a9f973d44181.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-192-_jpg.rf.757e3e04ffcd688aed843b340fc6edf0.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-194-_jpg.rf.19aed704f88bd21ec59b71a51b6e8322.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-196-_jpg.rf.007bf807bea7a2d1d5362a8072df330c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-199-_jpg.rf.43ba81cb265fec8932f987b8df6c343f.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-2-_jpg.rf.6e89b98326154e4f1faeeab12344649b.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-200-_jpg.rf.a075aa0644ab9bfb4e0c100e9866aa19.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-201-_jpg.rf.8012980bc62013cfb8bd5f1a4bc8213e.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-209-_jpg.rf.f4d88f4a066b1a319a414aee6b113435.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-21-_jpg.rf.4a794273fd055827fa113bbfaf9f1d5b.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-211-_jpg.rf.1a86819bfd18f4af3c2e41e63e64aa17.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-212-_jpg.rf.fa09d51352af2a2fefd282af5d238650.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-213-_jpg.rf.5f9dd770e03680fbb5ec1b72c92d10d9.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-214-_jpg.rf.1ea7827b11a4d84c03dfafe6dfe7b8f4.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-215-_jpg.rf.1ffed7a797993cae0a112378110cb9a9.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-216-_jpg.rf.9f49eb5d1640f2dbe3e59ed888b2d65d.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-217-_jpg.rf.e3e1fed728ca066c8e0253bac08e3699.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-218-_jpg.rf.648fa00f4ac1214e70209641cf0eb28c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-219-_jpg.rf.630651ec2cf6cd1d98737bee28324029.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-22-_jpg.rf.c00afe0ba3c6c1a49c78e3cb71146a5d.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-220-_jpg.rf.ab88ea6a09ecedb4935d7f7dc5ba44c4.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-221-_jpg.rf.3bba87885eaa7442422e7d566fb9ecd5.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-222-_jpg.rf.87003570d83a0549eafb33ea20ece0c0.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-224-_jpg.rf.1089a50fa862869f36a41974d671b286.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-226-_jpg.rf.86b85af28da7482706acce2dc568adc2.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-227-_jpg.rf.41287cc43ad88b5e3fd4dd2c3e5d4fa2.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-228-_jpg.rf.463d479e3d063268833a52fc882b9e9e.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-229-_jpg.rf.8c64c15abfbf73f73ca80cc348bc6c6e.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-23-_jpg.rf.e23e3da785546b9e3554e7e7b024abed.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-230-_jpg.rf.a3168ee950d1ce2ca378370dbddd12ea.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-231-_jpg.rf.cae5bacc0c026bdfd3ddd8586eb38737.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-232-_jpg.rf.944fe4153d33111831031244aba133fb.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-233-_jpg.rf.f523ee3a977307ddd6b6ee6fa8c118bd.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-234-_jpg.rf.da6bd43153765686b4111cd6d0c1a816.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-236-_jpg.rf.ee0f3622b59fb2a718e25e9e522bc1ac.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-237-_jpg.rf.71afce7c79c8d438b4cb7cc3a8ec4853.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-238-_jpg.rf.4e45e9e432260bf7dd9e2024d0d741b6.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-239-_jpg.rf.208384fa66dbcaf04c0181c60538fe8f.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-24-_jpg.rf.ac68878ac6e97967409f8781051af17c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-240-_jpg.rf.ac377cb3a9a31c36b5052781e9d13115.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-241-_jpg.rf.f23876dfe5ad74c50e3b3336b218e6a5.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-243-_jpg.rf.cbf3c8a27382a0143915fc0e9b9b1f1f.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-247-_jpg.rf.8b7a6cd2465b73c89f8e7b820c3b6220.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-248-_jpg.rf.90ca4f5e46a45f6d99bd041de4fe937f.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-249-_jpg.rf.9dc241bf9f3f1a5fb4e46b219d67a7c2.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-25-_jpg.rf.4ce964e3253d28c4a0ebbbc42ee095b4.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-250-_jpg.rf.a155e53749723f36b8ae24446a018e80.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-251-_jpg.rf.9c2db7f688850452dcba0295b6315ee8.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-255-_jpg.rf.16d88e9c6b1f1d4da92d1f64f571a979.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-256-_jpg.rf.4edbbb0eba249cd643c45d257f3784b6.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-257-_jpg.rf.74bacdb93ae0d53888e392aa1b76df25.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-259-_jpg.rf.e5bb64732cb3b27c699c9df361cae5ad.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-26-_jpg.rf.2d50bb5e32a2edc59a0f3e4c198082cb.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-260-_jpg.rf.f62408f69d0619298a608595e5737b27.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-262-_jpg.rf.bc04b1f996350f479d61fcbcbff3be0f.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-263-_jpg.rf.b1b0c3f3f3dac87638953ae952aa229f.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-264-_jpg.rf.14b4fd6aecf7f0488a6a1dc6e6dbe4b8.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-265-_jpg.rf.58cde5066851722230750f87e955c3cd.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-266-_jpg.rf.6bf08f8a39edc3d1528347e405a177ef.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-267-_jpg.rf.72e231390b730484cec4392899e68f58.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-268-_jpg.rf.5f7c01a3b3b7c0c41489020005bc892c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-269-_jpg.rf.73d95da7c07402c947ede6af2951c8ff.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-27-_jpg.rf.96f1926dcda400c6c6e845f188794c7d.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-28-_jpg.rf.61db95f11b0079a5a171a29b0e16ffe0.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-29-_jpg.rf.127d911897d86d8aad3c508aa75149d1.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-30-_jpg.rf.6d14b8d0826947f40b2ec96263130746.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-32-_jpg.rf.34ce393dd916bafb8395095fa83ee692.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-33-_jpg.rf.10717675b0c8322dd3463e10ce59b042.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-35-_jpg.rf.9aec9975cf43387602b887385c3efc0c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-38-_jpg.rf.b7eb4973e201050d300565ba753b4184.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-39-_jpg.rf.41c1dee101468e740e3e60ecd9c285a7.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-4-_jpg.rf.823fc31ebd1574c406ffa5447017a337.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-40-_jpg.rf.259f6734fa10afefa8c1ab2cb0dec2d0.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "24": {
+        "gt": 5,
+        "tp": 0,
+        "fp": 0,
+        "fn": 5
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-41-_jpg.rf.79619c9da8f6791c874c62263fce1e49.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-42-_jpg.rf.2c10c29dfc10bb3d630a8f402217181e.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-43-_jpg.rf.153f8e1bac2f961ecf2a9f7fa990364b.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-44-_jpg.rf.3fa21dab59b30c75cd2aab04cd32050b.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-45-_jpg.rf.7daeb01108dfe77d07271b7a5a075f66.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-46-_jpg.rf.1578d46a1d25e0aad5480da42d66bc48.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-47-_jpg.rf.28b64b4babbb2eabc3a9a3423bd241f9.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-48-_jpg.rf.644dbc861d22026aba8971f7d1e835f4.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-49-_jpg.rf.c564ee966043adb626e45d921b5d87aa.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-50-_jpg.rf.185ffc8c6df463715a2d9178e7c3ef20.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-51-_jpg.rf.f9d31489437af74cd18be0b3b5c98237.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-52-_jpg.rf.f418c0ac6c7343c6ade1a1e3c18c15ff.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-53-_jpg.rf.efcab92ee6098a4092f1807dcbcde47b.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-54-_jpg.rf.574fbead92534f1e833fb6022ba07424.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-55-_jpg.rf.43e87fe6f9e04e0786c0acebbd1a5725.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-56-_jpg.rf.4164207c8a4622aace30dec744618683.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-57-_jpg.rf.5cc9b817582c0754bc762c30b569e050.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-58-_jpg.rf.33824922cb33e4f056ebbb63697cba8c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-59-_jpg.rf.85144f52febe0dca4788ca344a8b5099.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-6-_jpg.rf.00e8740d11d6d5a80a0afb61f111a265.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-60-_jpg.rf.ecb0b954dad2cc3e6a123e8b937f2ab0.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-61-_jpg.rf.8b755c35b44634d66e8eaa16693e7b08.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-62-_jpg.rf.09b0e21ecba6664e21e88c88a46d39a7.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-63-_jpg.rf.b9bd4c940623f2796da54f413b38a97c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-64-_jpg.rf.e62de9867b1b7e4c42900d8929c8f5fa.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-65-_jpg.rf.fa385adef11bab7d9b12ee591b6f1c6d.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-66-_jpg.rf.17ed4cdc2589fdf73f8645853d5018c2.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-67-_jpg.rf.ba5616c82622097bec40d08368b08212.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-68-_jpg.rf.8e3aca97018173fa5c1b696f4cc3ddfc.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-69-_jpg.rf.20dcfc293faf7c75b5f80d746d344116.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-7-_jpg.rf.f7183b2c40100ce65cf16ae860e5c208.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-70-_jpg.rf.0748d777d37990db37067c942ed68113.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-71-_jpg.rf.074f18dad92ac3792039202dfa3e4bfb.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-72-_jpg.rf.4ecf769a532ac8bc92804db8ebc36720.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-73-_jpg.rf.d6ec05c1af57a2c5d458561c881afe12.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-74-_jpg.rf.98543cf1b0319639c3092983f0b9eaf9.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-75-_jpg.rf.739e339f73499041ac9918c15f983091.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-76-_jpg.rf.e3b8fb4e5651cc39f7b0fb3e3b545aa9.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-77-_jpg.rf.f4d1843d2d5a928edaf2b9cc48e6cc76.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-78-_jpg.rf.16c1913fea050973083a6d2149d8d26c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-79-_jpg.rf.40cea9d3bb16ebe5dc5cccfef10a8b23.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-8-_jpg.rf.802f63339a4a8644362204efbb2d1e3f.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-86-_jpg.rf.66caf8caa96cf2036548b664d401d354.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-87-_jpg.rf.77464e08033cefc99fe5b5f2404c092c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-89-_jpg.rf.b784cc596a464cc897e87a2462e1d910.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-9-_jpg.rf.9837ce3b3fbe89e9e9b9e65f63a9098a.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-91-_jpg.rf.4961d480ce9fe6371d62c6fe17223e1d.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-92-_jpg.rf.b9e77915f22053b22dccdac3e25bd0c4.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-93-_jpg.rf.7823c44962fdc3768c620229035fe961.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-94-_jpg.rf.c24c1d34d5d9aa4a85efc7120d57666b.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-95-_jpg.rf.e9095668ec930be0ea0807d1d29491cc.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-96-_jpg.rf.604374e45ab5e8e308fdc4b9bb71f3a8.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-97-_jpg.rf.ad2a466a3bdc5bbf7e1bb13b6e8a2100.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-98-_jpg.rf.0f0860a2df027291b7865403bbe59feb.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Table-99-_jpg.rf.127ae304b0a6fa5f656cc5ae08e123e1.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Untitled-20-870x870_jpg.rf.ba52b59574420b37d6821aecdd1d7376.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/Vastu-tips-for-a-peaceful-bedroom-FB-1200x725-compressed-1200x725_jpg.rf.128985760c7fdd153e952affdc285316.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "14": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      },
+      "15": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/White-Floor-Tiles-For-Living-Room_jpg.rf.8e166efb04c5ab50017a6604b8d72f8a.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/a9ed3b3cec82821256583939d844160d_jpg.rf.b7b27a8b9b4a298d308d527faa413d06.jpg",
+    "classes": {
+      "11": {
+        "gt": 3,
+        "tp": 0,
+        "fp": 0,
+        "fn": 3
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/aab364a2bda980e5506f6b843a0d873a_jpg.rf.16b62d40ec9648a68a2abfbd4ce65168.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/ab2ac3ff-510-361_jpg.rf.c11232b90229e54dbdb479074d9db3e2.jpg",
+    "classes": {
+      "2": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/b25d3d89ea1453351dd89dfd955ea246_jpg.rf.5bacaf0c5f7c90cf5feffce0110cad95.jpg",
+    "classes": {
+      "13": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/bed001_jpg.rf.7110338a599c7bcc23cea5d0bfb89850.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/bed002_jpg.rf.4b0771c2f3d90ea852ce00f82b169af4.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "14": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "15": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      }
+    }
+  },
+  {
+    "image": "test/images/bed005_jpg.rf.56556d5e5ab61393ef711bed19026831.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "14": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      },
+      "15": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/bed009_jpg.rf.f4c47347a24f37b3f10f8336ea485486.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "10": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      }
+    }
+  },
+  {
+    "image": "test/images/bed010_jpg.rf.c849a50fa4b4b682af9094b34d87c1f7.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/bed011_jpg.rf.7d546dfc3b72da806a1be5a49ac7a0b5.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/bed022_jpg.rf.1a718d23d547f24f47b6ac46924c0574.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 1,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/bed023_jpg.rf.921fc823da216cda46af8a381a091e7d.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/bed025_jpg.rf.a0814abe4bacc7b5310d2854cbf55782.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/bed027_jpg.rf.a66423d3b19061b80b448753c3522b62.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "11": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "14": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/bed028_jpg.rf.9de06e6c558f43de55cd7dfb45d8ec83.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "14": {
+        "gt": 3,
+        "tp": 0,
+        "fp": 0,
+        "fn": 3
+      },
+      "15": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/bf4fe7e145d84da79ad3db1cffc9c48e_jpg.rf.f8122e46655d40e0e3526524ea94ce37.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/bracket-dining-table-white-wash_jpg.rf.8491d651a8dd75eb61671fc7c3cbfdde.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/c531f4e630a0c7cf5f054056339795e5_jpg.rf.bef8c24c1adc8aad126ac0eb47591856.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/cabinet_u20_jpg.rf.8ca5d0416519969bebe4be248f6dd70d.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/cabinet_u22_jpg.rf.75c9826521d4bfec45e4894b5a73499b.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/cabinet_u39_jpg.rf.f6f429d2521ab35a243f7eee09ebbf4f.jpg",
+    "classes": {
+      "1": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      }
+    }
+  },
+  {
+    "image": "test/images/cabinet_u46_jpg.rf.3ba076e5b349a09311075dc8b7936685.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/cabinet_u48_jpg.rf.8ae1ee78294475873d25a34fab628c82.jpg",
+    "classes": {
+      "1": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/carbinet_1_jpg.rf.f57e4b3d26b31b23c3a013ea7d32dbfe.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/carbinet_40_jpg.rf.eaca1a4aa298d277641780551024df2b.jpg",
+    "classes": {
+      "17": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/carbinet_42_jpg.rf.a9c43ac70397769c24ae70f260f90ff4.jpg",
+    "classes": {
+      "17": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/carbinet_42_jpg.rf.f83ae79c2a7d0433975b1e5f5aa9212a.jpg",
+    "classes": {
+      "17": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/cba375221476eb44ba6fb2bab7587013_jpg.rf.42e24abee7c17c9c339f8d6d13ce33bd.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/ccac53d347cb4ba537c282eaf127bf47_jpg.rf.fd7851bd9feb2f3fdb078d8a3d7331cb.jpg",
+    "classes": {
+      "12": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/clean_unclean_window13_jpeg_jpg.rf.fb9af98224c5271443a950e644cc38fd.jpg",
+    "classes": {
+      "23": {
+        "gt": 3,
+        "tp": 0,
+        "fp": 0,
+        "fn": 3
+      }
+    }
+  },
+  {
+    "image": "test/images/clean_unclean_window16_jpeg_jpg.rf.85f871eca4a1e47adfc0ef67a1b2c8c0.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/clean_unclean_window17_jpeg_jpg.rf.113bf168cdd5fdf8248cf31e6a722719.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/clean_unclean_window17_jpeg_jpg.rf.84b2a301072d0539cded1992c4cd2e41.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/clean_unclean_window33_jpeg_jpg.rf.f20a9e35565ff88d3eb2e77efa1c4a53.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/clean_unclean_window36_jpeg_jpg.rf.826be60f6949d9d39a0ff73eff2c553d.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/clean_unclean_window38_jpeg_jpg.rf.27a69aa7c41429b91c69d3444085049b.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/clean_unclean_window47_jpeg_jpg.rf.ad804fbc1a61495157b9da34488bf90b.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/clean_unclean_window48_jpg.rf.813f6c3d514997a7e93c659be216bf94.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/clean_unclean_window57_jpg.rf.12aff684821857d92392fe6ae584f022.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/clean_unclean_window5_jpeg_jpg.rf.f431a24bf0c17e561efce3842e8f285c.jpg",
+    "classes": {
+      "23": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/clean_unclean_window84_jpg.rf.82efe1d835c47bf30771829ad03a441e.jpg",
+    "classes": {
+      "23": {
+        "gt": 3,
+        "tp": 0,
+        "fp": 0,
+        "fn": 3
+      }
+    }
+  },
+  {
+    "image": "test/images/d58f187d936e2bfc113131aeaaa747cf0884794b_0_jpg.rf.0eb9704dcd2d9bab52b237bfce4f0da5.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 5,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/daa852ed65aef2e9a4366c871405b23b_jpg.rf.77939749e47176329c5af83acca41eba.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "2": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "13": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "14": {
+        "gt": 3,
+        "tp": 0,
+        "fp": 0,
+        "fn": 3
+      },
+      "16": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "22": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/dcf90f6fefa7f2f00f1870d500cd0163_jpg.rf.3994f84cce0573e008251d5fb511a4d6.jpg",
+    "classes": {
+      "13": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/door106_jpg.rf.41f91e1bec26b03984888a9fd774515d.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door117_jpg.rf.ed32483ebfa34e6769b7d5b5799685d8.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door120_jpg.rf.814123805da4a59bf6aec6700c23a287.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door125_jpg.rf.cbdddf8b7b553eacfb63a2d314cb561a.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door126_jpg.rf.4ab9c753eeb7793f1bb72f002034ea46.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door126_jpg.rf.9ba17d09d1fff15c792c7cc561bbd00d.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door127_jpg.rf.6bc9dcabf1509394c130887007ded5e3.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door14_jpg.rf.23be7f9b3e645fc7d2ba7746f7a147bd.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door14_jpg.rf.8d8df862a582c2b7a763cf4c8f124f6a.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door151_jpg.rf.97252b6e95c4c7f956d38ab9d16d9357.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door153_jpg.rf.abf6710c076a4a2ed6e901968552a48f.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door15_jpg.rf.57a38e4b9435d3d02e63dcbd22930eb5.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door18_jpg.rf.9d6ff03a390c37113558849ca7463068.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door19_jpg.rf.6cc7e563a2c00ee1dfc5c2b28d3a217a.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door30_jpg.rf.cf8d901e46d4dbd77aed5ed2083855e7.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door33_jpg.rf.0c75bd25b1c4daff010fade699873deb.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door33_jpg.rf.9de2ca8d5d033a6a37476f4674228275.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door34_jpg.rf.793b13fbb79207df005c9ca93d0b3a9b.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door44_jpg.rf.a418ab8d087ae890c27cbec7ff647a5b.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door45_jpg.rf.92f1222ea23deeb0d4852c34813153ff.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door46_jpg.rf.b6611692fc10acf6d0a422a13a4b34ab.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door48_jpg.rf.47d954c9c3112a8b7023f9614097b2bf.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door57_jpg.rf.7269e00e1725e0fb0f85e9382cb630c8.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door64_jpg.rf.370d357578cb8751c3035a5a70498503.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/door98_jpg.rf.c94a2cd771d66069754fb2b02774789e.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/drawernearbed_14_jpg.rf.00d0c1200743fb13641d666a17ec16d3.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "15": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/drawernearbed_15_jpg.rf.0b4e6dfb880698b6c1d265529e850653.jpg",
+    "classes": {
+      "15": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/e460b0ab-AC10A_jpg.rf.4c3c67f41647472f5c82c49280d3d66d.jpg",
+    "classes": {
+      "2": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/erinwilliamson-21-97917683e34f4af2aa641dbd8ac0d9ff_jpeg.rf.0803ed76f172c8df5d9161bb53105871.jpg",
+    "classes": {
+      "1": {
+        "gt": 3,
+        "tp": 0,
+        "fp": 0,
+        "fn": 3
+      },
+      "3": {
+        "gt": 3,
+        "tp": 0,
+        "fp": 0,
+        "fn": 3
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/f3c94276539199f213ffb36373510fd7_jpg.rf.003c9a8afb44e48e33562350900d5818.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 4,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "13": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/f7c78454fa4bb99e5a1e259bbb7e3105_jpg.rf.1714d6fb3b43785609513809cbb77882.jpg",
+    "classes": {
+      "6": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/fa58c5d443aa5fb7bd4f82d82f2fce5a_jpg.rf.ee52efda956edc2f22c6af08d921ab9e.jpg",
+    "classes": {
+      "13": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/fe1b7e57-2513-LBL_jpg.rf.e02b7692623491c634edadace6f45de4.jpg",
+    "classes": {
+      "2": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/floor-insp_jpg.rf.b4d3164177ca964287086c7a2a305457.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 2,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/google_0004_jpg.rf.17078feedd7ae878bf804119b5ac5cab.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0004_jpg.rf.d7754ae48226c317e26f4e99a62668ba.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0008_jpg.rf.50376397bb0a9cc679fc173081a65a68.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0028_jpg.rf.4662c35df9f20a5f74de2fc5326d3f47.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0032_jpg.rf.e571863a6417735febd7d620d5e58f5b.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0042_jpg.rf.3effaf2a9bbdb6713e4ce5098948d864.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0048_jpg.rf.ce914efb15b3d2d00dc0c7dd6d84abb2.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0052_jpg.rf.130856f4a8ad9372ff1d9121ea0a9428.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0052_jpg.rf.4bb0b154199bad31addac37f0a79d374.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0055_jpg.rf.643ed4d7e04d9c12256ada0c1776e5e9.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0058_jpg.rf.13ed1d2f4896e228536ee055fa75e324.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0091_jpg.rf.a2614a827e5aae3af4d3f85794c1f62e.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0091_jpg.rf.beed9371a5df8f94c9d92f7668decd1e.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0094_jpg.rf.c78d11ab89223e4921d3458c7eff42dd.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0095_jpg.rf.63ba26c349b39a61d1a9e24f60083d5a.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0096_jpg.rf.62ed1246e67ee3b24fcff0ab5da503de.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0097_jpg.rf.9109a741d95957e8db71ae9fb064572d.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0104_jpg.rf.89ca7c171e14840dcc9810049713ccd7.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0105_jpg.rf.8098ebff896fa4c46661d4950d7aede0.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0108_jpg.rf.c39c9d522507f0021ddb25f82e992e59.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0133_jpg.rf.c14cfa594ee1558f6027893f8bb263e9.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0162_jpg.rf.4ac293bae56f5f93681939237e923e34.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0207_jpg.rf.4aec9279733d476e3df0b98c9d3d7b89.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0346_jpg.rf.b8fd27c493dba0b3a4e17ad3770e68f5.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/google_0346_jpg.rf.be16a7bcd3435e41dfd8ae031d083e47.jpg",
+    "classes": {}
+  },
+  {
+    "image": "test/images/ikea-a-clean-way-to-display-or-tidy-away-__1364309466684-s4_jpg.rf.c9470233f10a32d12915c657c8b80acb.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "2": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "7": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 1,
+        "fn": 0
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-a-neat-and-space-saving-desk-in-natural-bamboo__1364309611116-s4_jpg.rf.2bd81f4a207ee8be7256bbddbc769081.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-all-you-need-to-add-is-an-apple-pie-cooling-on-the-windowsill__1364308435274-s4_jpg.rf.6d32d3ffb52bb0b22b99a79679d478de.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-bring-a-touch-of-scandinavia-to-nap-time__1364309324925-s4_jpg.rf.24a549657062f108c592eddbdbf1afba.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-double-up-on-study-space-__1364311989957-s4_jpg.rf.fedd7d7e6af6bc0374355065499f9b60.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-keep-creative-order-with-adjustable-shelves__1364308423652-s4_jpg.rf.3d2d9a78ceffb664122e9f722a5bb0de.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-make-those-grey-cells-happy__1364308429226-s4_jpg.rf.f6f26bf71479494d34e5bf7ee2d4a842.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-mix-grey-white-and-wood-for-a-free-personal-style__1364308465290-s4_jpg.rf.daff49ebf7b403e174d1c1ed6c6174b7.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-nordic-expression-that-fits-in-naturally__1364312041960-s4_jpg.rf.89ffd39083633778e6303a4fdb2cfbdc.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-outdoor-dining-fit-for-every-day__1364308384734-s4_jpg.rf.680de5c1c117519c24c29f22ca73b762.jpg",
+    "classes": {
+      "4": {
+        "gt": 2,
+        "tp": 1,
+        "fp": 1,
+        "fn": 1
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-small-size-without-compromise__1364312041670-s4_jpg.rf.2b0f644d3621e25117f672c20cf9b1f9.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-snuggle-down-in-cosy-traditional-green-__1364308476013-s4_jpg.rf.d75b0b9731154082df918c1aed8257bc.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-soften-stainless-steel-with-pink-accents__1364308463433-s4_jpg.rf.050055f876092e98fc92abb0e8db4adc.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-solid-pine-meets-modern-design__1364308469777-s4_jpg.rf.279831fbe62ae991c13f3ca79ca9db46.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-stay-up-to-date-in-a-calm-traditional-style__1364308468815-s4_jpg.rf.75c78e1075560e14311acd3ff499d9fe.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-study-or-socialise-in-scandinavian-style__1364315947938-s4_jpg.rf.301a737ae9b66883c338e1159df6aec2.jpg",
+    "classes": {
+      "4": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 3,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/ikea-wake-up-to-clean-and-airy-__1364308509739-s4_jpg.rf.124bba0e57ce01b48eb9d3330fdb0d03.jpg",
+    "classes": {
+      "0": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/image-298-1951-586_jpg.rf.2b7cbe9a23aaf5edc3c4580a4f575c37.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image-298-1951-586_jpg.rf.8bc8c4a8071ab07d3d1e481d07f551b8.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image101_jpg.rf.73b7c549606beeec5ce3cc422912a319.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image102_jpg.rf.533a69981a50df5f00dad7a1f34c4623.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image107_jpg.rf.02c1b27adbe0840f93333475202dac22.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image111_jpg.rf.ee03ef63b6153811b15d52d876a5222b.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image115_jpg.rf.019a9c0ad369754651a5a4f734092dd4.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image115_jpg.rf.e6b408317c05776e10c67d1f61584012.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image122_jpg.rf.78ec0ffe5f48a08dfb54febd7ea1ae6c.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image143_jpg.rf.1a2c30980f2cdba1869b37a89d6ee729.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image169_jpg.rf.fea5d7fad6dc5e084c38d169855cbb70.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image180_jpg.rf.25c0f0eabd28a9fff975280cba251440.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image32_jpg.rf.5ce4a184c462af52b22837ba49346844.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image54_jpg.rf.d0d78293c9af98fb0d06509edead6cc3.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image63_jpg.rf.94241b7fecfa0b3ea84974c99a63e179.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image73_jpg.rf.3d6043e34b11bcb4d8a01c37cf503ead.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image75_jpg.rf.efa47c549fa44c71a2b54ca4a78c65c3.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image77_jpg.rf.c37751c835dbd2d13f5b738a46ca1d08.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image9_jpg.rf.530a8195d0bff1cfa9be56d247409570.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/image9_jpg.rf.7e1b9ea12c0aa5689a64d79858b093f1.jpg",
+    "classes": {
+      "5": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-10-_jpg.rf.635d513642db0044e4331c4433da6d58.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-13-_jpg.rf.72772a5f658374f07caefe6ab8ec3f18.jpg",
+    "classes": {
+      "18": {
+        "gt": 2,
+        "tp": 0,
+        "fp": 0,
+        "fn": 2
+      }
+    }
+  },
+  {
+    "image": "test/images/images-17-_jpg.rf.e227892367521a99a88b5fceefec0c97.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2-_jpeg.rf.404a6345779542caf5b01cbe7f5fd4e5.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2-_jpg.rf.ba9d0cf3aa9a3078eaf1b97305d7c19b.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172146-255_jpg.rf.28ab213c3a5f415122e7cb0a06e34a9c.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172256-935_jpg.rf.a11bb595cdf47f4401af899d76330a80.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172433-917_jpg.rf.277f6566efe8247a30a1ab496bb495e1.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 2,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172433-917_jpg.rf.548972e222ed9605d0838a3fbbfd2703.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 2,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172455-994_jpg.rf.fdf8a12777857a099520ca09f64c780e.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172506-094_jpg.rf.6da85f32c0060967511db4313ac1d4f2.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172726-723_jpg.rf.f9de72afbae1c047807fd66be403523b.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172730-099_jpg.rf.10d358ffe99836deed8b2bf67aeb7f53.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172802-976_jpg.rf.92f830f3af5c2edee957d081c760aa18.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172824-205_jpg.rf.4923f08d7e79da256b06b151453db5a7.jpg",
+    "classes": {
+      "18": {
+        "gt": 3,
+        "tp": 0,
+        "fp": 0,
+        "fn": 3
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172841-414_jpg.rf.82c70605ecffc7ed90ccb65aa238f173.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172902-482_jpg.rf.38d45d647395e1172b3d5fc0974ed070.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172902-482_jpg.rf.f2b1787dea65977cef5852a959034d48.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172913-763_jpg.rf.f58d0f89ec5b999e275e1c652a7ca6ec.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T172956-372_jpg.rf.8835d3a02baaf939f5c97a73271f262c.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T173049-283_jpg.rf.67a85698d0426692854357a5e3124b50.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T173121-380_jpg.rf.46cef641bd60e3da75ed45f8bbc2ca4a.jpg",
+    "classes": {
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-2021-10-11T173121-380_jpg.rf.f2e33010a75d142f3e2cde4038a609b2.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-23-_jpg.rf.f5475a0607593e4b2573d1d450d33aaf.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-3-_jpeg.rf.a5017dbceb234ba86acdd2c05f9468a6.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-3-_jpg.rf.491eaf51a874b9efa53af20a0677e63c.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/images-3-_jpg.rf.e2e371c0a832b4e8f4d070d368d486dc.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-34-_jpg.rf.7ab5fe02827d9a1c77fd429d605399e2.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/images-37-_jpg.rf.b381f56fe439e587ef5b6bd491d6ac9a.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-41-_jpg.rf.fcd9e972b1b11a7fe3221d3ad59c5669.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-49-_jpg.rf.99b07836c8a4d507cbcb954b1bb7eda4.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-58-_jpg.rf.3f01d5337fc9d7aa068ebcdac5d0eb03.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/images-6-_jpg.rf.bb0e4856202188c946b6525e66b5c930.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 4,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 1,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-61-_jpg.rf.7672787082ce303391108c1cc1318959.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/images-66-_jpg.rf.6b0aaa5e1ca462375591bd42370fc514.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-7-_jpg.rf.9613e7839ab80d39e902f47351ec0ec7.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-7-_jpg.rf.fa9ff615a7b3c8ff32b32d5859c0716d.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-70-_jpg.rf.31706aa1177aab79c888c6013a380124.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-75-_jpg.rf.821d1cef5488797caf1d7701b20e5968.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/images-84-_jpg.rf.ea280c25b1b767cc536ed3e24e15b402.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-84-_jpg.rf.ed2612ece234dc5973d3465c0efdcea3.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-85-_jpg.rf.c6ab8cf027640a11c8ec474fda7f1545.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-9-_jpg.rf.9da641c5cc5c33aefa84ee5c52cae746.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-94-_jpg.rf.0174843d334a48fc755c719b5f75502e.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images-94-_jpg.rf.ffc1fd8fc946bbf383d029b2ef5d93be.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 1,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/images_jpg.rf.a868eabcdd83f3171a91ad7c5ca9a665.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/img137_jpg.rf.22cedfb8e7aba7fccbd078c93f7f802c.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/img787_jpg.rf.2a209617435b2784244f550a73e34082.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/kaki-meja-makan-stainless-yang-kekinian56992b3f71110fa8045efe691f1ed6ae_jpg.rf.057d3b2fa363cc7a52f6b257a51703af.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 5,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/masa-bucatarie-extensibila-monika_jpg.rf.68e3ac94707a44a37f8688563f35f3d3.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/modern-floor_13_jpeg.rf.93566b5ffc416d8b79b6795d0fcb1d25.jpg",
+    "classes": {
+      "3": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      },
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/modern-floor_14_jpeg.rf.f61c6b710dbddaebddcb422859e8da21.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 4,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/modern-floor_3_jpeg.rf.517a0c74c1d9b4658887cadbf5ede28a.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 3,
+        "fn": 0
+      },
+      "8": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "24": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/naver_0069_jpg.rf.3aa7b3b4ae56745d44ea625ec11f238a.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/page__en_us_1608262440__1_jpeg.rf.d249edee2a848505c9de1616f027f0ea.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 3,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/sandalye-online-dogal-agac-masa-kayin-cila-vakko-ayak-min_jpg.rf.44967d4e622ee8d153b094261940b5d9.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/sofa_11_jpg.rf.bcf323079f6b17fcbd46f106a555b800.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/sofa_2_jpg.rf.4ef81a2de90428fa2d455c1191b4fd8b.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/sofa_41_jpg.rf.7f35ba6a2a16e6f3fef93b2e2d9af66d.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/sofa_45_jpg.rf.50e66966b49696ddac76e03df5cb5461.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/sofas-1-_jpg.rf.234fb5f3c72fd1693fb511cbb098cf14.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/sofas-4-_jpg.rf.3f055272190f37c27c43fb6c0c5bdfab.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/sofas-6-_jpg.rf.790f5d3f7a0d6d12c5913b970912d5ac.jpg",
+    "classes": {
+      "0": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/sofas-7-_jpg.rf.f8dd39c32fd7d824a400a315121dbde9.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/sofas-8-_jpg.rf.a5cc20bdcf833198f337ac377b3d60ba.jpg",
+    "classes": {
+      "18": {
+        "gt": 1,
+        "tp": 1,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "image": "test/images/u15161392013-retro-masa-masa-takimihtm-masa-takimlari-8377-15-B_jpg.rf.48386bfa122ecf162a9944d2df573b9f.jpg",
+    "classes": {
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "image": "test/images/viera-yuvarlak-masa-1515-1019x665_jpg.rf.9659adfad1c902d2c39a64b8afba2ced.jpg",
+    "classes": {
+      "4": {
+        "gt": 0,
+        "tp": 0,
+        "fp": 1,
+        "fn": 0
+      },
+      "8": {
+        "gt": 1,
+        "tp": 0,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  }
+]

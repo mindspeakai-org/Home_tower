@@ -1,0 +1,20 @@
+{
+  "dataset_native_parser": {
+    "train": 6424,
+    "valid": 891,
+    "test": 739,
+    "corrupt": 0
+  },
+  "review_images": 125,
+  "manually_reviewed_images": 0,
+  "clean_metrics": "unavailable; header only",
+  "real_model_room_proposal_checks": 12,
+  "approved_real_camera_zones": 0,
+  "full_test_command": ".venv/bin/python -m unittest discover -s tests -p \"test_*.py\" -v",
+  "tests_run": 40,
+  "passed": 39,
+  "skipped": 1,
+  "stage1_tests_in_full_suite": 15,
+  "protected_originals_and_stage2_unchanged": true,
+  "report_links_verified": true
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "train": 495,
+    "valid": 27,
+    "test": 36
+  },
+  "ground_truth_instances": {
+    "train": 1523,
+    "valid": 85,
+    "test": 116
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "samples": [
+    {
+      "image": "test/images/-1-_jpg.rf.7e189da61dc4a23fcb18ff846eb11e92.jpg",
+      "pt_count": 0,
+      "openvino_count": 0,
+      "pt_best_same_class_ious": []
+    },
+    {
+      "image": "test/images/00000291_jpg.rf.93b537fa877b23614caa19fe8068a66d.jpg",
+      "pt_count": 2,
+      "openvino_count": 2,
+      "pt_best_same_class_ious": [
+        0.9999997586286256,
+        0.9999997904634166
+      ]
+    },
+    {
+      "image": "test/images/111346_jpg.rf.f66e620cf246122aa3d8afbd58438092.jpg",
+      "pt_count": 3,
+      "openvino_count": 3,
+      "pt_best_same_class_ious": [
+        0.9999993881963184,
+        0.9999993369547693,
+        0.9999999963836279
+      ]
+    },
+    {
+      "image": "test/images/146303_jpg.rf.ce6afbc623b1cab363a54eab627342e6.jpg",
+      "pt_count": 3,
+      "openvino_count": 3,
+      "pt_best_same_class_ious": [
+        0.9999999785620814,
+        0.9999975969798923,
+        0.999999464499253
+      ]
+    },
+    {
+      "image": "test/images/203-063-87_jpg.rf.e056167146e2223ca4a867fed20db361.jpg",
+      "pt_count": 1,
+      "openvino_count": 1,
+      "pt_best_same_class_ious": [
+        0.9999999876998833
+      ]
+    },
+    {
+      "image": "test/images/32_jpg.rf.a8c8f68a1d2be5777f6365f6b8a3c767.jpg",
+      "pt_count": 0,
+      "openvino_count": 0,
+      "pt_best_same_class_ious": []
+    },
+    {
+      "image": "test/images/490-473-41_jpg.rf.2d5fb2742b57a2c8bb8774bb0fdf3c74.jpg",
+      "pt_count": 1,
+      "openvino_count": 1,
+      "pt_best_same_class_ious": [
+        0.99999994312235
+      ]
+    },
+    {
+      "image": "test/images/60_jpg.rf.61401c03853e2837e0689a5dcd1abf06.jpg",
+      "pt_count": 4,
+      "openvino_count": 4,
+      "pt_best_same_class_ious": [
+        0.9999997669323208,
+        0.9999999259663658,
+        0.9999992058721139,
+        0.9999997556818857
+      ]
+    },
+    {
+      "image": "test/images/902-679-95_jpg.rf.497649344d9bab41033efdaf664e86d1.jpg",
+      "pt_count": 0,
+      "openvino_count": 0,
+      "pt_best_same_class_ious": []
+    },
+    {
+      "image": "test/images/Script-Online-Orient-Coffee-Table-White-56121403SD00018-Context-Visualizer-Image-D-01_png_jpg.rf.d845ad9fe30e18be58e5f83e9ffc18c0.jpg",
+      "pt_count": 1,
+      "openvino_count": 1,
+      "pt_best_same_class_ious": [
+        0.9999999179930064
+      ]
+    },
+    {
+      "image": "test/images/Sofass-29-_jpg.rf.21722729a6556e30e48a1a36064b2a65.jpg",
+      "pt_count": 1,
+      "openvino_count": 1,
+      "pt_best_same_class_ious": [
+        0.9999999337272334
+      ]
+    },
+    {
+      "image": "test/images/Table-228-_jpg.rf.463d479e3d063268833a52fc882b9e9e.jpg",
+      "pt_count": 3,
+      "openvino_count": 3,
+      "pt_best_same_class_ious": [
+        0.9999997360548091,
+        0.9999999562691873,
+        0.9999999873332784
+      ]
+    },
+    {
+      "image": "test/images/Table-30-_jpg.rf.6d14b8d0826947f40b2ec96263130746.jpg",
+      "pt_count": 0,
+      "openvino_count": 0,
+      "pt_best_same_class_ious": []
+    },
+    {
+      "image": "test/images/Table-7-_jpg.rf.f7183b2c40100ce65cf16ae860e5c208.jpg",
+      "pt_count": 1,
+      "openvino_count": 1,
+      "pt_best_same_class_ious": [
+        1.000000050333172
+      ]
+    },
+    {
+      "image": "test/images/bed023_jpg.rf.921fc823da216cda46af8a381a091e7d.jpg",
+      "pt_count": 2,
+      "openvino_count": 2,
+      "pt_best_same_class_ious": [
+        0.9999998162112449,
+        0.9999994373513991
+      ]
+    },
+    {
+      "image": "test/images/door127_jpg.rf.6bc9dcabf1509394c130887007ded5e3.jpg",
+      "pt_count": 1,
+      "openvino_count": 1,
+      "pt_best_same_class_ious": [
+        0.999999791165957
+      ]
+    },
+    {
+      "image": "test/images/google_0091_jpg.rf.a2614a827e5aae3af4d3f85794c1f62e.jpg",
+      "pt_count": 1,
+      "openvino_count": 1,
+      "pt_best_same_class_ious": [
+        0.9999999338059471
+      ]
+    },
+    {
+      "image": "test/images/image122_jpg.rf.78ec0ffe5f48a08dfb54febd7ea1ae6c.jpg",
+      "pt_count": 0,
+      "openvino_count": 0,
+      "pt_best_same_class_ious": []
+    },
+    {
+      "image": "test/images/images-34-_jpg.rf.7ab5fe02827d9a1c77fd429d605399e2.jpg",
+      "pt_count": 1,
+      "openvino_count": 1,
+      "pt_best_same_class_ious": [
+        0.9999997609900069
+      ]
+    },
+    {
+      "image": "test/images/viera-yuvarlak-masa-1515-1019x665_jpg.rf.9659adfad1c902d2c39a64b8afba2ced.jpg",
+      "pt_count": 1,
+      "openvino_count": 1,
+      "pt_best_same_class_ious": [
+        0.9999996834368484
+      ]
+    }
+  ],
+  "weight_file_sha256": {
+    "weights/yolo11n-pose.onnx": "5ebe9b9e688100e57099a4a4de2a4837ce686da82d72bc905b86c6e83b5b8932",
+    "weights/yolo11n.pt": "0ebbc80d4a7680d14987a577cd21342b65ecfd94632bd9a8da63ae6417644ee1",
+    "weights/yolo11n.onnx": "ea6637d70a8f052ba7839644ad9432c9e5b48db743d550f4e4f0f416b88f3dbe",
+    "weights/yolo11n-pose.pt": "869e83fcdffdc7371fa4e34cd8e51c838cc729571d1635e5141e3075e9319dc0",
+    "weights/yolo11n-pose_openvino_model/yolo11n-pose.xml": "ed7d1d6f77f5aa8a06ab9a10d02684d01b515139cec83abdc74c08a805daf5ec",
+    "weights/yolo11n-pose_openvino_model/yolo11n-pose.bin": "149599cc2bedf0a09544d8fc862fbc8a10c56fbc6c72cef7d1ca7dd20ddeb837",
+    "weights/yolo11n-pose_openvino_model/metadata.yaml": "2b54e459f1642cc6913ce4283666315357bb4bb6f009b4e79c84942d3e25d418",
+    "weights/yolo11n_openvino_model/yolo11n.bin": "5eff1ffdb269044796ace943a3f330af5a9bc97722175a2af153adfab6ff8db9",
+    "weights/yolo11n_openvino_model/metadata.yaml": "02fece6131ab68a1d8425c4ee9ae476d9fd2ae728f959b5a2036ee128042dabd",
+    "weights/yolo11n_openvino_model/yolo11n.xml": "16b49f6756a0628eb7556735ec13b8db740139aee98bedda9541aec3630107f7"
+  }
+}

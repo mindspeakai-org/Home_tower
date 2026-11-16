@@ -1,0 +1,5 @@
+{
+  "status": "unavailable",
+  "reviewed_images": 0,
+  "reason": "No manually accepted/corrected annotations; predictions cannot supply ground truth"
+}

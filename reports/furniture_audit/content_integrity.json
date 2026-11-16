@@ -1,0 +1,7 @@
+{
+  "exact_duplicate_annotation_conflicts": [],
+  "phash_candidates": [],
+  "decoded_images": 8055,
+  "criterion": "pHash Hamming <=4 and 16x16 grayscale MAE <=12/255",
+  "warning": "Perceptual similarity is not proof of leakage; inspect candidate pairs"
+}

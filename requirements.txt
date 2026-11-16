@@ -1,0 +1,12 @@
+ultralytics>=8.3.0
+opencv-python
+numpy
+scipy
+shapely
+openvino>=2024.0.0
+onnxruntime
+onnx
+lap>=0.5.12
+torch
+torchvision
+psutil

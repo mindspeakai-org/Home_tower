@@ -1,0 +1,19 @@
+{
+  "original_and_pose_checkpoint_hashes_match": true,
+  "original_archive_hash_matches": true,
+  "stage2_module_hashes_match": true,
+  "CPUModels_AST_matches": true,
+  "FrameScheduler_AST_matches": true,
+  "source_cache_files_hash_verified": 16113,
+  "review_decisions": {
+    "pending": 125
+  },
+  "strict_audit_baseline_preserved": true,
+  "bootstrap_candidate_records": 47,
+  "bootstrap_distinct_image_hashes": 46,
+  "shadow_image_files_are_all_symlinks": true,
+  "model_retraining_performed": false,
+  "dataset_downloads": [],
+  "strict_baseline_sha256": "8565a2b45e080cfb6e37f77be3529b65aaee3ab087d06ec0bf35656a517ca0a1",
+  "strict_baseline_copy_matches_original": true
+}

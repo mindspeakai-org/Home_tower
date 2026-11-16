@@ -1,0 +1,6 @@
+{
+  "confidence_ordered_duplicate_matching": "pass",
+  "wrong_class_rejected": "pass",
+  "mixed_row_formats": "pass",
+  "empty_predictions": "pass"
+}

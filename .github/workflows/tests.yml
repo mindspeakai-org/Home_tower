@@ -1,0 +1,37 @@
+name: Unit tests
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: pip
+      - name: Install OpenCV system libraries
+        run: sudo apt-get update && sudo apt-get install -y libgl1 libglib2.0-0
+      - name: Install CPU dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install -r requirements.txt
+          python -m pip check
+      - name: Run tests without datasets or checkpoints
+        run: >-
+          python -m unittest
+          tests.test_cpu_scheduler
+          tests.test_stage2_alerts
+          tests.test_e2e_pipeline.ZoneValidationTests
+          tests.test_stage1_runtime_calibration.CalibrationUnitTests
+          tests.test_stage1_runtime_calibration.AnnotationReviewTests
+          tests.test_stage1_runtime_calibration.CPUCalibrationIntegrationTests.test_camera_startup_calibrates_once_outside_the_shared_scheduler
+          tests.test_stage1_runtime_calibration.CPUCalibrationIntegrationTests.test_demo_geometry_cannot_enable_live_camera_monitoring
+          -v

@@ -1,0 +1,10 @@
+{
+  "protected_files": 23,
+  "changed_files": [],
+  "original_archive_sha256_matches": true,
+  "detection_checkpoint_sha256_matches": true,
+  "pose_checkpoint_sha256_matches": true,
+  "original_dataset_modified": false,
+  "runtime_code_modified": false,
+  "downloaded_datasets": []
+}

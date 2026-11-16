@@ -1,0 +1,80 @@
+{
+  "status": "proposal only; original IDs and label files are unchanged",
+  "original_archive_sha256": "7236062f0af92ec59a9f4cdb62743ebdcf1814b3170f4de95465e51ac175a728",
+  "original_id_to_canonical_name": {
+    "0": "bed",
+    "1": "cabinet",
+    "2": "carpet",
+    "3": "ceramic_floor",
+    "4": "chair",
+    "5": "closet",
+    "6": "cupboard",
+    "7": "curtains",
+    "8": "dining_table",
+    "9": "door",
+    "10": "frame",
+    "11": "futec_frame",
+    "12": "futech_tiles",
+    "13": "gypsum_board",
+    "14": "lamp",
+    "15": "nightstand",
+    "16": "shelf",
+    "17": "sideboard",
+    "18": "couch",
+    "19": "tv_stand",
+    "20": "table",
+    "21": "transparent_closet",
+    "22": "wall_panel",
+    "23": "window",
+    "24": "wooden_floor"
+  },
+  "aliases": {
+    "Chair": "chair",
+    "chair": "chair",
+    "Bed": "bed",
+    "bed": "bed",
+    "Couch": "couch",
+    "couch": "couch",
+    "Sofa": "couch",
+    "sofa": "couch",
+    "table": "table",
+    "Table": "table"
+  },
+  "do_not_automatically_merge": [
+    [
+      "table",
+      "dining_table"
+    ],
+    [
+      "cabinet",
+      "closet",
+      "cupboard",
+      "sideboard",
+      "transparent_closet"
+    ],
+    [
+      "frame",
+      "futec_frame"
+    ],
+    [
+      "ceramic_floor",
+      "futech_tiles",
+      "wooden_floor",
+      "carpet"
+    ]
+  ],
+  "not_valid_synonyms": [
+    [
+      "desk",
+      "table"
+    ],
+    [
+      "stove",
+      "oven"
+    ],
+    [
+      "tv_stand",
+      "tv"
+    ]
+  ]
+}

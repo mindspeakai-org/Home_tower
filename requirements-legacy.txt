@@ -1,0 +1,4 @@
+# Optional: only for the legacy Open Images preparation script.
+# Installing this file does not download a dataset.
+-r requirements.txt
+fiftyone
